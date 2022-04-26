@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="loose">Oops You lost</string>
+    <string name="won">You won Congrats</string>
+    <string name="rightSelection">Good One right selection</string>
+    <string name="wrongSelection">Sorry Wrong selection</string>
+</resources>
